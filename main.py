@@ -10,12 +10,12 @@ def print_hi(name):
 
 
 def hello_world():
-    print('Hello World!')
+    print('Hello World!!!')
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('Hi Qstream!')
+    print_hi('Hi Qstream!!!')
     hello_world()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
